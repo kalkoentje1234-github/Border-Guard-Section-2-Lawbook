@@ -29,9 +29,9 @@ baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
 url: "https://kalkoentje16.github.io/testrepository/#-turkiye-cumhuriyeti-lawbook-" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/kalkoentje16/turkiye-cumhuriyeti-lawbook"
-github_user: "kalkoentje16"
-github_repo: "turkiye-cumhuriyeti-lawbook"
+repo: "https://github.com/vsoch/mkdocs-jekyll"
+github_user: "vsoch"
+github_repo: "mkdocs-jekyll"
 
 # Optional
 twitter: vsoch
