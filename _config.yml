@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Türkiye Cumhuriyeti laws and regulations
-email: your-email@domain.com
+title: **Türkiye Cumhuriyeti laws and regulations**
+email: kalkoentje1234@gmail.com
 author: Dinosaur Avocado
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
