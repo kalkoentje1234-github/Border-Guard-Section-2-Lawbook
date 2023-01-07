@@ -1,6 +1,6 @@
 ---
 layout: null
-excluded_in_search: false
+excluded_in_search: true
 ---
 ! function(e, t) {
     for (var n in t) e[n] = t[n]
