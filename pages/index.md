@@ -4,7 +4,7 @@ title: Turkiye Cumhuriyeti Lawbook
 permalink: /
 ---
 
-# ![Flag](TurkishFlag1.png) Turkiye Cumhuriyeti Lawbook ![Flag](TurkishFlag1.png)
+# Turkiye Cumhuriyeti Lawbook
 
 
 ## General Provisions
