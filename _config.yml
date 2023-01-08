@@ -16,7 +16,7 @@
 
 title: Türkiye Cumhuriyeti laws and regulations
 email: your-email@domain.com
-author: Dinosaur Avocado
+author: Jimmy (@kalkoentje1234)
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -34,9 +34,9 @@ github_user: "kalkoentje16"
 github_repo: "Turkiye-Cumhuriyeti-Lawbook"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+twitter:
+linkedin:
+dockerhub:
 # google-analytics: G-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
