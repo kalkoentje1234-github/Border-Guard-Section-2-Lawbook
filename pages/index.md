@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Turkiye Cumhuriyeti Lawbook
 permalink: /
 ---
@@ -42,9 +42,9 @@ permalink: /
 
 |   | **Jail Time**  |
 |---|---|
-|  **First Conviction** | 2 hours |
-| **Second Conviction**  | 4 hours |
-| **Third Conviction**  | 6 hours |
+|  **First Conviction** | N/A |
+| **Second Conviction**  | N/A |
+| **Third Conviction**  | N/A |
 
 ### Acticle I-2 Threat
 
@@ -53,9 +53,9 @@ permalink: /
 
 |   | **Jail Time**  | **+33%** |
 |---|---|---|
-|  **First Conviction** | 2 hours | 2.5 hours |
-| **Second Conviction**  | 4 hours | 5.5 hours |
-| **Third Conviction**  | 6 hours | 8 hours |
+|  **First Conviction** | N/A | N/A |
+| **Second Conviction**  | N/A | N/A |
+| **Third Conviction**  | N/A | N/A |
 
 ### Article I-3 Murder
 
@@ -65,9 +65,9 @@ permalink: /
 
 |   | **Jail Time**  | **+33%** | **-33%** |
 |---|---|---|---|
-|  **First Conviction** | 6 hours | 8 hours | 4 hours |
-| **Second Conviction**  | 10 hours | 13 hours | 6.5 hours |
-| **Third Conviction**  | 14 hours | 19 hours | 9.5 hours |
+|  **First Conviction** | N/A | N/A | N/A |
+| **Second Conviction**  | N/A | N/A | N/A |
+| **Third Conviction**  | N/A | N/A | N/A |
 
 ## Title II - Weapons & Munition
 
@@ -77,9 +77,9 @@ permalink: /
 
 |   | **Jail Time**  |
 |---|---|
-|  **First Conviction** | 8 hours |
-| **Second Conviction**  | 10 hours |
-| **Third Conviction**  | 13 hours |
+|  **First Conviction** | N/A |
+| **Second Conviction**  | N/A |
+| **Third Conviction**  | N/A |
 
 ## Title III - Property Crimes
 
@@ -90,9 +90,9 @@ permalink: /
 
 |   | **Jail Time**  | **-33%** |
 |---|---|---|
-|  **First Conviction** | 3 hours | 2 hours |
-| **Second Conviction**  | 6 hours | 4 hours |
-| **Third Conviction**  | 10 hours | 7 hours |
+|  **First Conviction** | N/A | N/A |
+| **Second Conviction**  | N/A | N/A |
+| **Third Conviction**  | N/A | N/A |
 
 ### Article III-2 Theft with violence
 
@@ -102,9 +102,9 @@ permalink: /
 
 |   | **Jail Time**  | **-33%** |
 |---|---|---|
-|  **First Conviction** | 8 hours | 5.5 hours |
-| **Second Conviction**  | 14 hours | 9.5 hours |
-| **Third Conviction**  | 18 hours | 12 hours |
+|  **First Conviction** | N/A | N/A |
+| **Second Conviction**  | N/A | N/A |
+| **Third Conviction**  | N/A | N/A |
 
 ### Article III-3 Blackmail
 
@@ -113,9 +113,9 @@ permalink: /
 
 |   | **Jail Time**  |
 |---|---|
-|  **First Conviction** | 3 hours |
-| **Second Conviction**  | 5 hours |
-| **Third Conviction**  | 8 hours |
+|  **First Conviction** | N/A |
+| **Second Conviction**  | N/A |
+| **Third Conviction**  | N/A |
 
 ## Title IV - Other
 
@@ -126,9 +126,9 @@ permalink: /
 
 |   | **Jail Time**  |
 |---|---|
-|  **First Conviction** | 3 hours |
-| **Second Conviction**  | 5 hours |
-| **Third Conviction**  | 8 hours |
+|  **First Conviction** | N/A |
+| **Second Conviction**  | N/A |
+| **Third Conviction**  | N/A |
 
 ### Article IV-2 Entering forbidden domain
 
@@ -136,6 +136,6 @@ permalink: /
 
 |   | **Jail Time**  |
 |---|---|
-|  **First Conviction** | 1 hours |
-| **Second Conviction**  | 3 hours |
-| **Third Conviction**  | 6 hours |
+|  **First Conviction** | N/A |
+| **Second Conviction**  | N/A |
+| **Third Conviction**  | N/A |
