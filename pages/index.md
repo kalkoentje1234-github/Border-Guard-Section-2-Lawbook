@@ -38,7 +38,7 @@ permalink: /
 
 ### Article I-1 Rebellion/Resistance
 
-1. Guilty is a person who commits violence or violently resists against an officer on duty.
+1. Guilty is a person who commits violence or violently resists against an officer. This includes both physical and mental violence.
 
 |   | **Jail Time**  |
 |---|---|
