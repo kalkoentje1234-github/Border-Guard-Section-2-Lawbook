@@ -139,3 +139,13 @@ permalink: /
 |  **First Conviction** | N/A |
 | **Second Conviction**  | N/A |
 | **Third Conviction**  | N/A |
+
+### Article IV-3 Trespassing the border lines
+
+1. Guilty is a person who, without being entitled to do so, walks or drives over the border lines without having a legal permit.
+
+|   | **Jail Time**  |
+|---|---|
+|  **First Conviction** | N/A |
+| **Second Conviction**  | N/A |
+| **Third Conviction**  | N/A |
