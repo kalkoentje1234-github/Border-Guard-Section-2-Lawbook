@@ -96,17 +96,6 @@ permalink: /
 | **Second Conviction**  | - | - |
 | **Third Conviction**  | - | - |
 
-### Article III-3 Blackmail
-
-1. Guilty is a person who forcibly demands information or goods from a third party.
-2. Guilty is a person who forcibly forces or demands an action from a third party.
-
-|   | **Jail Time**  |
-|---|---|
-|  **First Conviction** | - |
-| **Second Conviction**  | - |
-| **Third Conviction**  | - |
-
 ## Title IV - Other
 
 ### Article IV-1 Failure to comply with an order or demand
