@@ -19,7 +19,6 @@ email: your-email@domain.com
 author: kalkoentje16
 description: > # this means to ignore newlines until "baseurl:"
   Update 2.0 is here
-This update includes new and updated law articles.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
