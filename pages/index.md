@@ -2,6 +2,11 @@
 layout: page
 title: Turkiye Cumhuriyeti Lawbook
 permalink: /
+badges:
+ - type: warning
+   tag: warning-badge
+ - type: danger
+   tag: danger-badge
 ---
 
 # Turkiye Cumhuriyeti Lawbook
