@@ -2,6 +2,8 @@
 layout: page
 title: Turkiye Cumhuriyeti Lawbook
 permalink: /
+date:   2023-04-18 12:31:00
+categories: jekyll update
 badges:
  - type: warning
    tag: warning-badge
