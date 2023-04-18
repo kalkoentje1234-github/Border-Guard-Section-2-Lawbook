@@ -9,20 +9,26 @@ permalink: /
 
 ## General Provisions
 
-### A1 - Validity
+### A1 - Code of Conduct
+All officers must abide by a strict code of conduct at all times. This includes upholding the law, being respectful to citizens, and maintaining integrity. Officers are expected to conduct themselves in a professional and ethical manner, both on and off duty. This includes refraining from engaging in any behavior that could bring discredit to the department, and ensuring that their actions are always in the best interest of the community.
 
-1. In the event of a change in a law after the time when the offence was committed, the most favourable provisions for the suspect will be applied.
-2. An officer is not allowed to decide on a matter that concerns themselves, friends and/or family. This is to reinforce that a case is handled in a fair and righteous manner.
+### A2 - Non-Discrimination
+Officers must not discriminate against any individual or group on the basis of race, ethnicity, religion, gender, sexual orientation, or any other personal characteristic. Officers are expected to treat all individuals with respect and dignity, and to provide equal protection under the law. This includes ensuring that they do not use their position of authority to harass, intimidate, or discriminate against any member of the community, regardless of their background or beliefs.
 
-### A2 - Criminal Record
+### A3 - Use of Force
+The use of force is only allowed in situations where it is necessary to protect the safety of officers or citizens. Any use of force must be proportionate to the threat faced. Officers must make every effort to de-escalate situations before resorting to force, and must use the minimum amount of force necessary to achieve their objectives. This includes using non-lethal alternatives whenever possible, and ensuring that deadly force is only used as a last resort.
 
-1. Sentences that include some form of imprisonment may result in a criminal record.
-2. A criminal record remains for a period of 1 month for all violent crimes with a prison sentence, and ½ month for all other crimes with a prison sentence, starting on the date of the sentence imposed.
-3. When a new offence or crime is committed, the remaining time is reset to the date of the last sentence imposed. This only applies if the new criminal record remains longer than the current criminal record.
+### A4 - Arrest Procedures
+Officers must follow proper arrest procedures when taking individuals into custody. Officers must ensure that all arrests are made in accordance with the law, and that individuals are treated with dignity and respect. This includes ensuring that individuals are informed of their rights, and that they are not subject to any unnecessary physical or emotional harm during the arrest process.
 
-### A3 - General Addition
+### A5 - Arrest Report Procedures
+Officers must accurately and thoroughly document all incidents and arrests in official reports. This includes recording physical evidence, and any other relevant information. Reports must be timely, complete, and accurate, and must be submitted in accordance with departmental policies. This includes ensuring that reports are free from bias or personal opinion, and that they accurately reflect the events that occurred.
 
-1. An officer is not allowed to arrest someone without a valid reason. In the event where an officer arrests someone without a valid reason, the officer will be suspended or exiled depending on the severity of their actions.
+### A6 - Evidence Procedures
+Officers must handle all evidence in accordance with established procedures. This includes properly collecting, preserving, and analyzing evidence to ensure the integrity of the criminal justice system. Officers must also ensure that all evidence is properly documented and stored, and that chain of custody is maintained at all times. This includes ensuring that evidence is not tampered with or destroyed, and that it is presented accurately in their report.
+
+### A7 - Accountability
+Officers must be accountable for their actions. Any violations of the law or department policies must be reported and investigated, and officers who commit misconduct must be held responsible for their actions. Officers must also ensure that they are transparent in their actions, and that they maintain the trust and confidence of the community they serve. This includes ensuring that they are open to feedback and constructive criticism, and that they take appropriate action to address any concerns or issues that are raised.
 
 ## Title I - Violent Crimes
 
