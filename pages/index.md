@@ -36,22 +36,22 @@ Officers must be accountable for their actions. Any violations of the law or dep
 
 1. Guilty is a person who commits violence or violently resists against an officer. This includes both physical and mental violence.
 
-|   | **Jail Time**  |
+|   | **Jail time**  |
 |---|---|
-|  **First Conviction** | - |
-| **Second Conviction**  | - |
-| **Third Conviction**  | - |
+|  **First conviction** | - |
+| **Second conviction**  | - |
+| **Third conviction**  | - |
 
 ### Acticle I-2 Threatening
 
 1. Guilty is a person who threatens with violent content or criminal character against a person or property.
 2. If the victim is an officer, the sentence is increased by 33%.
 
-|   | **Jail Time**  | **+33%** |
+|   | **Jail time**  | **+33%** |
 |---|---|---|
-|  **First Conviction** | - | - |
-| **Second Conviction**  | - | - |
-| **Third Conviction**  | - | - |
+|  **First conviction** | - | - |
+| **Second conviction**  | - | - |
+| **Third conviction**  | - | - |
 
 ### Article I-3 Murder
 
@@ -59,11 +59,11 @@ Officers must be accountable for their actions. Any violations of the law or dep
 2. If the victim is an officer, the sentence is increased by 33%.
 3. For attempted murder, the sentence is reduced by 33%.
 
-|   | **Jail Time**  | **+33%** | **-33%** |
+|   | **Jail time**  | **+33%** | **-33%** |
 |---|---|---|---|
-|  **First Conviction** | - | - | - |
-| **Second Conviction**  | - | - | - |
-| **Third Conviction**  | - | - | - |
+|  **First conviction** | - | - | - |
+| **Second conviction**  | - | - | - |
+| **Third conviction**  | - | - | - |
 
 ## Title II - Weapons & Munition
 
@@ -71,11 +71,11 @@ Officers must be accountable for their actions. Any violations of the law or dep
 
 1. Guilty is a person who owns or carries an illegal firearm.
 
-|   | **Jail Time**  |
+|   | **Jail time**  |
 |---|---|
-|  **First Conviction** | - |
-| **Second Conviction**  | - |
-| **Third Conviction**  | - |
+|  **First conviction** | - |
+| **Second conviction**  | - |
+| **Third conviction**  | - |
 
 ## Title III - Property Crimes
 
@@ -84,11 +84,11 @@ Officers must be accountable for their actions. Any violations of the law or dep
 1. Guilty is a person who takes away a good or vehicle without permission or having any right to do so.
 2. In the case of an attempted theft, the maximum sentence to be imposed is 33% of the full sentence.
 
-|   | **Jail Time**  | **-33%** |
+|   | **Jail time**  | **-33%** |
 |---|---|---|
-|  **First Conviction** | - | - |
-| **Second Conviction**  | - | - |
-| **Third Conviction**  | - | - |
+|  **First conviction** | - | - |
+| **Second conviction**  | - | - |
+| **Third conviction**  | - | - |
 
 ### Article III-2 Theft with violence
 
@@ -96,11 +96,11 @@ Officers must be accountable for their actions. Any violations of the law or dep
 2. Said violence was used during preparation, theft, or escape.
 3. In the case of an attempted theft with violence, the penalty is reduced by 33%.
 
-|   | **Jail Time**  | **-33%** |
+|   | **Jail time**  | **-33%** |
 |---|---|---|
-|  **First Conviction** | - | - |
-| **Second Conviction**  | - | - |
-| **Third Conviction**  | - | - |
+|  **First conviction** | - | - |
+| **Second conviction**  | - | - |
+| **Third conviction**  | - | - |
 
 ## Title IV - Other
 
@@ -109,28 +109,28 @@ Officers must be accountable for their actions. Any violations of the law or dep
 1. Guilty is a person who willfully fails to comply with an order or demand issued by an officer.
 2. Guilty is a person who deliberately obstructs an officer in the performance thereof.
 
-|   | **Jail Time**  |
+|   | **Jail time**  |
 |---|---|
-|  **First Conviction** | - |
-| **Second Conviction**  | - |
-| **Third Conviction**  | - |
+|  **First conviction** | - |
+| **Second conviction**  | - |
+| **Third conviction**  | - |
 
 ### Article IV-2 Entering forbidden domain
 
 1. Guilty is a person who, without being entitled to do so, walks or drives over someone else's land, the access of which is apparently prohibited by the person entitled to it.
 
-|   | **Jail Time**  |
+|   | **Jail time**  |
 |---|---|
-|  **First Conviction** | - |
-| **Second Conviction**  | - |
-| **Third Conviction**  | - |
+|  **First conviction** | - |
+| **Second conviction**  | - |
+| **Third conviction**  | - |
 
 ### Article IV-3 Trespassing the border lines
 
 1. Guilty is a person who, without being entitled to do so, walks or drives over the border lines without having a legal permit.
 
-|   | **Jail Time**  |
+|   | **Jail time**  |
 |---|---|
-|  **First Conviction** | - |
-| **Second Conviction**  | - |
-| **Third Conviction**  | - |
+|  **First conviction** | - |
+| **Second conviction**  | - |
+| **Third conviction**  | - |
