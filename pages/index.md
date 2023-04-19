@@ -30,107 +30,149 @@ Officers must handle all evidence in accordance with established procedures. Thi
 ### A7 - Accountability
 Officers must be accountable for their actions. Any violations of the law or department policies must be reported and investigated, and officers who commit misconduct must be held responsible for their actions. Officers must also ensure that they are transparent in their actions, and that they maintain the trust and confidence of the community they serve. This includes ensuring that they are open to feedback and constructive criticism, and that they take appropriate action to address any concerns or issues that are raised.
 
-## Title I - Violent Crimes
+## Title I - Aggravated Crimes
 
-### Article I-1 Resistance
+### Article I-1 - Violence
 
-1. Guilty is a person who commits violence or violently resists against an officer. This includes both physical and mental violence.
+1. Guilty is someone who commits violence or violently resists against an EGM or BG officer.
+2. Guilty is someone who resists an arrest by using force or violence against an EGM or BG officer.
 
-|   | **Jail time**  |
+|   | **Prison time**  |
 |---|---|
-|  **First conviction** | - |
-| **Second conviction**  | - |
-| **Third conviction**  | - |
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
 
-### Acticle I-2 Threatening
+### Article I-2 - Threatening
 
-1. Guilty is a person who threatens with violent content or criminal character against a person or property.
-2. If the victim is an officer, the sentence is increased by 33%.
+1. Guilty is someone who threatens with violent content or criminal character against a person or property.
+2. Guilty is someone who threatens to harm another person in order to intimidate or control them. This could include threatening to disclose embarrassing information, or threatening to harm someone's family members.
+3. Guilty is someone who makes a threat in order to obtain something of value, such as money or property. This is also known as blackmail.
+4. Guilty is someone who makes a threat with the intention of causing fear or panic among a large group of people. This could include making bomb threats, or threatening to carry out an act of terrorism.
 
-|   | **Jail time**  | **+33%** |
-|---|---|---|
-|  **First conviction** | - | - |
-| **Second conviction**  | - | - |
-| **Third conviction**  | - | - |
-
-### Article I-3 Murder
-
-1. Guilty is a person who deliberately takes a person's life. 
-2. If the victim is an officer, the sentence is increased by 33%.
-3. For attempted murder, the sentence is reduced by 33%.
-
-|   | **Jail time**  | **+33%** | **-33%** |
-|---|---|---|---|
-|  **First conviction** | - | - | - |
-| **Second conviction**  | - | - | - |
-| **Third conviction**  | - | - | - |
-
-## Title II - Weapons & Munition
-
-### Article II-1 Illegal Firearms
-
-1. Guilty is a person who owns or carries an illegal firearm.
-
-|   | **Jail time**  |
+|   | **Prison time**  |
 |---|---|
-|  **First conviction** | - |
-| **Second conviction**  | - |
-| **Third conviction**  | - |
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
 
-## Title III - Property Crimes
+### Article I-3 - Murder 
 
-### Article III-1 Theft
+1. Guilty is someone who deliberately takes a person's life. 
+2. Guilty is someone who causes the death of another person while committing a felony crime, even if they did not intend to kill anyone. For example, if someone is robbing a bank and accidentally shoots a bystander, they can be charged with felony murder.
+3. Guilty is someone who helps another person to take their own life, even if the person requested the assistance.
 
-1. Guilty is a person who takes away a good or vehicle without permission or having any right to do so.
-2. In the case of an attempted theft, the maximum sentence to be imposed is 33% of the full sentence.
-
-|   | **Jail time**  | **-33%** |
-|---|---|---|
-|  **First conviction** | - | - |
-| **Second conviction**  | - | - |
-| **Third conviction**  | - | - |
-
-### Article III-2 Theft with violence
-
-1. Guilty is a person who takes away a good without permission or having any right to do so, using violence in any form.
-2. Said violence was used during preparation, theft, or escape.
-3. In the case of an attempted theft with violence, the penalty is reduced by 33%.
-
-|   | **Jail time**  | **-33%** |
-|---|---|---|
-|  **First conviction** | - | - |
-| **Second conviction**  | - | - |
-| **Third conviction**  | - | - |
-
-## Title IV - Other
-
-### Article IV-1 Failure to comply with an order or demand
-
-1. Guilty is a person who willfully fails to comply with an order or demand issued by an officer.
-2. Guilty is a person who deliberately obstructs an officer in the performance thereof.
-
-|   | **Jail time**  |
+|   | **Prison time**  |
 |---|---|
-|  **First conviction** | - |
-| **Second conviction**  | - |
-| **Third conviction**  | - |
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
 
-### Article IV-2 Entering forbidden domain
+## Title II - Immigration and Border Crossing
 
-1. Guilty is a person who, without being entitled to do so, walks or drives over someone else's land, the access of which is apparently prohibited by the person entitled to it.
+### Article II-1 Illegal Immigration
 
-|   | **Jail time**  |
+1. Guilty is someone who crosses the border lines without proper documentation or permission to enter the country.
+2. Guilty is someone who enters the country using fraudulent or counterfeit documents, such as a fake passport.
+
+|   | **Prison time**  |
 |---|---|
-|  **First conviction** | - |
-| **Second conviction**  | - |
-| **Third conviction**  | - |
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
 
-### Article IV-3 Trespassing the border lines
+## Title III - Smuggling and Contraband
 
-1. Guilty is a person who, without being entitled to do so, walks or drives over the border lines without having a legal permit.
+### Article III-1 Illegal Trading
 
-|   | **Jail time**  |
+1. Guilty is someone who enters the country with the intention of smuggling illegal goods, such as illegal tea, weapons or fuel.
+2. Guilty is someone who is involved in a conspiracy to engage in illegal trading of goods, even if they did not personally carry out the act of smuggling or selling the goods.
+3. Guilty is someone who intentionally evades or avoids customs inspections or checkpoints in order to facilitate the smuggling of illegal goods.
+4. Guilty is someone who knowingly purchases illegal goods, such as illegal tea, weapons or fuel, thereby supporting the illegal trading of such goods.
+5. Guilty is someone who is caught in possession of illegal goods with the intent to sell or distribute them within the country.
+
+|   | **Prison time**  |
 |---|---|
-|  **First conviction** | - |
-| **Second conviction**  | - |
-| **Third conviction**  | - |
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
+
+## Title IV - Weapons and Munition
+
+### Article IV-1 Illegal Firearms
+
+1. Guilty is someone who owns or carries an illegal firearm.
+2. Guilty is someone who possesses an illegal firearm with the intent to use it to commit a crime.
+3. Guilty is someone who uses an illegal firearm to threaten or harm others.
+
+|   | **Prison time**  |
+|---|---|
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
+
+## Title V - Property Crimes
+
+### Article V-1 Theft
+
+1. Guilty is someone who takes away a good or vehicle without permission or having any right to do so.
+
+|   | **Prison time**  |
+|---|---|
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
+
+### Article V-2 Theft with Violence
+
+1. Guilty is someone who physically assaults someone during the course of a theft, causing them injury or harm.
+2. Guilty is someone who engages in a criminal conspiracy to commit theft with violence, even if they did not personally carry out the act of violence.
+3. Said violence was used during preparation, theft, or escape.
+
+|   | **Prison time**  |
+|---|---|
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
+
+### Article V-3 Entering forbidden domain
+
+1. Guilty is someone who intentionally enters a building or property that is clearly marked as off-limits or restricted, without authorization or lawful purpose.
+2. Guilty is someone who ignores posted signs or warnings indicating that an area is off-limits, and proceeds to enter or cross the forbidden domain.
+3. Guilty is someone who enters a government or military facility, such as a military base or restricted government building, without proper clearance or authorization.
+4. Guilty is someone who enters a private property or residence without the owner's consent or invitation, even if the property is not clearly marked as off-limits.
+
+|   | **Prison time**  |
+|---|---|
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
+
+## Title VI - Corruption
+
+### Article VI-1 Bribery
+
+1. Guilty is someone who offers or bribes a EGM or BG officer in exchange for special treatment or privilege, such as allowing them to cross the border without proper documentation or inspection.
+2. Guilty is someone who solicits or accepts a bribe as an EGM or BG officer, using their position of authority to gain personal gain or advantage.
+3. Guilty is someone who engages in corruption, such as using their influence as a border guard to facilitate illegal activities, such as illegal good trafficing.
+4. Guilty is a person who uses their connections or influence to obtain special treatment or bypass legal requirements at the border, such as using their position to allow certain individuals or goods to cross the border without proper inspection or documentation.
+
+|   | **Prison time**  |
+|---|---|
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
+
+## Title VII - Other
+
+### Article VII-1 Failure to comply with an order or demand
+
+1. Guilty is someone who willfully fails to comply with an order or demand issued by an EGM or BG officer.
+2. Guilty is someone who deliberately obstructs an EGM or BG officer in the performance thereof.
+3. Guilty is someone who obstructs an EGM or BG officer in the execution of their duty, such as by physically blocking their access to a crime scene or interfering with an arrest.
+
+|   | **Prison time**  |
+|---|---|
+|  **First conviction** | N/A |
+| **Second conviction**  | N/A |
+| **Third conviction**  | N/A |
