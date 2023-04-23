@@ -14,22 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Türkiye Cumhuriyeti laws and regulations
+title: Border Guard Section 2 Lawbook
 email: your-email@domain.com
 author: kalkoentje16
 description: > # this means to ignore newlines until "baseurl:"
-  Update 2.0 is here
+  New update.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://kalkoentje16.github.io/Turkiye-Cumhuriyeti-Lawbook/" # the base hostname & protocol for your site
+url: "https://kalkoentje16.github.io/Border-Guard-Section-2-Lawbook/" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/kalkoentje16/Turkiye-Cumhuriyeti-Lawbook"
+repo: "https://github.com/kalkoentje16/Border-Guard-Section-2-Lawbook"
 github_user: "kalkoentje16"
-github_repo: "Turkiye-Cumhuriyeti-Lawbook"
+github_repo: "Border-Guard-Section-2-Lawbook"
 
 # Optional
 twitter:
