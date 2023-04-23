@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Turkiye Cumhuriyeti Lawbook
+title: Border Guard Section 2 Lawbook
 permalink: /
 ---
 
-# Turkiye Cumhuriyeti Lawbook
+# Border Guard Section 2 Lawbook
 
 
 ## General Provisions
