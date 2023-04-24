@@ -6,36 +6,35 @@ permalink: /
 
 # Border Guard Section 2 Lawbook
 
-
 ## General Provisions
 
 ### A1 - Code of Conduct
-All officers must abide by a strict code of conduct at all times. This includes upholding the law, being respectful to citizens, and maintaining integrity. Officers are expected to conduct themselves in a professional and ethical manner, both on and off duty. This includes refraining from engaging in any behavior that could bring discredit to the department, and ensuring that their actions are always in the best interest of the community.
+All personnel must abide by a strict code of conduct at all times. This includes upholding the law, being respectful to citizens, and maintaining integrity. Personnel are expected to conduct themselves in a professional and ethical manner, both on and off duty. This includes refraining from engaging in any behavior that could bring discredit to the department, and ensuring that their actions are always in the best interest of the community.
 
 ### A2 - Non-Discrimination
-Officers must not discriminate against any individual or group on the basis of race, ethnicity, religion, gender, sexual orientation, or any other personal characteristic. Officers are expected to treat all individuals with respect and dignity, and to provide equal protection under the law. This includes ensuring that they do not use their position of authority to harass, intimidate, or discriminate against any member of the community, regardless of their background or beliefs.
+Personnel must not discriminate against any individual or group on the basis of race, ethnicity, religion, gender, sexual orientation, or any other personal characteristic. Personnel are expected to treat all individuals with respect and dignity, and to provide equal protection under the law. This includes ensuring that they do not use their position of authority to harass, intimidate, or discriminate against any member of the community, regardless of their background or beliefs.
 
 ### A3 - Use of Force
-The use of force is only allowed in situations where it is necessary to protect the safety of officers or citizens. Any use of force must be proportionate to the threat faced. Officers must make every effort to de-escalate situations before resorting to force, and must use the minimum amount of force necessary to achieve their objectives. This includes using non-lethal alternatives whenever possible, and ensuring that deadly force is only used as a last resort.
+The use of force is only allowed in situations where it is necessary to protect the safety of yourself, colleauges or civilians. Any use of force must be proportionate to the threat faced. Personnel must make every effort to de-escalate situations before resorting to force, and must use the minimum amount of force necessary to achieve their objectives. This includes using non-lethal alternatives whenever possible, and ensuring that deadly force is only used as a last resort.
 
 ### A4 - Arrest Procedures
-Officers must follow proper arrest procedures when taking individuals into custody. Officers must ensure that all arrests are made in accordance with the law, and that individuals are treated with dignity and respect. This includes ensuring that individuals are informed of their rights, and that they are not subject to any unnecessary physical or emotional harm during the arrest process.
+Personnel must follow proper arrest procedures when taking individuals into custody. Personnel must ensure that all arrests are made in accordance with the law, and that individuals are treated with dignity and respect. This includes ensuring that individuals are informed of their rights, and that they are not subject to any unnecessary physical or emotional harm during the arrest process.
 
 ### A5 - Arrest Report Procedures
-Officers must accurately and thoroughly document all incidents and arrests in official reports. This includes recording physical evidence, and any other relevant information. Reports must be timely, complete, and accurate, and must be submitted in accordance with departmental policies. This includes ensuring that reports are free from bias or personal opinion, and that they accurately reflect the events that occurred.
+Personnel must accurately and thoroughly document all incidents and arrests in official reports. This includes recording physical evidence, and any other relevant information. Reports must be timely, complete, and accurate, and must be submitted in accordance with departmental policies. This includes ensuring that reports are free from bias or personal opinion, and that they accurately reflect the events that occurred.
 
 ### A6 - Evidence Procedures
-Officers must handle all evidence in accordance with established procedures. This includes properly collecting, preserving, and analyzing evidence to ensure the integrity of the criminal justice system. Officers must also ensure that all evidence is properly documented and stored, and that chain of custody is maintained at all times. This includes ensuring that evidence is not tampered with or destroyed, and that it is presented accurately in their report.
+Personnel must handle all evidence in accordance with established procedures. This includes properly collecting, preserving, and analyzing evidence to ensure the integrity of the criminal justice system. Personnel must also ensure that all evidence is properly documented and stored, and that chain of custody is maintained at all times. This includes ensuring that evidence is not tampered with or destroyed, and that it is presented accurately in their report.
 
 ### A7 - Accountability
-Officers must be accountable for their actions. Any violations of the law or department policies must be reported and investigated, and officers who commit misconduct must be held responsible for their actions. Officers must also ensure that they are transparent in their actions, and that they maintain the trust and confidence of the community they serve. This includes ensuring that they are open to feedback and constructive criticism, and that they take appropriate action to address any concerns or issues that are raised.
+Personnel must be accountable for their actions. Any violations of the law or department policies must be reported and investigated, and personnel who commit misconduct must be held responsible for their actions. Personnel must also ensure that they are transparent in their actions, and that they maintain the trust and confidence of the community they serve. This includes ensuring that they are open to feedback and constructive criticism, and that they take appropriate action to address any concerns or issues that are raised.
 
 ## Title I - Aggravated Crimes
 
 ### Article I-1 - Violence
 
-1. Guilty is someone who commits violence or violently resists against an EGM or BG officer.
-2. Guilty is someone who resists an arrest by using force or violence against an EGM or BG officer.
+1. Guilty is someone who commits violence or violently resists against an EGM or BG personnel.
+2. Guilty is someone who resists an arrest by using force or violence against an EGM or BG personnel.
 
 |   | **Prison time**  |
 |---|---|
@@ -152,8 +151,8 @@ Officers must be accountable for their actions. Any violations of the law or dep
 
 ### Article VI-1 Bribery
 
-1. Guilty is someone who offers or bribes a EGM or BG officer in exchange for special treatment or privilege, such as allowing them to cross the border without proper documentation or inspection.
-2. Guilty is someone who solicits or accepts a bribe as an EGM or BG officer, using their position of authority to gain personal gain or advantage.
+1. Guilty is someone who offers or bribes a EGM or BG personnel in exchange for special treatment or privilege, such as allowing them to cross the border without proper documentation or inspection.
+2. Guilty is someone who solicits or accepts a bribe as an EGM or BG personnel, using their position of authority to gain personal gain or advantage.
 3. Guilty is someone who engages in corruption, such as using their influence as a border guard to facilitate illegal activities, such as illegal good trafficing.
 4. Guilty is a person who uses their connections or influence to obtain special treatment or bypass legal requirements at the border, such as using their position to allow certain individuals or goods to cross the border without proper inspection or documentation.
 
@@ -167,9 +166,9 @@ Officers must be accountable for their actions. Any violations of the law or dep
 
 ### Article VII-1 Failure to comply with an order or demand
 
-1. Guilty is someone who willfully fails to comply with an order or demand issued by an EGM or BG officer.
-2. Guilty is someone who deliberately obstructs an EGM or BG officer in the performance thereof.
-3. Guilty is someone who obstructs an EGM or BG officer in the execution of their duty, such as by physically blocking their access to a crime scene or interfering with an arrest.
+1. Guilty is someone who willfully fails to comply with an order or demand issued by an EGM or BG personnel.
+2. Guilty is someone who deliberately obstructs an EGM or BG personnel in the performance thereof.
+3. Guilty is someone who obstructs an EGM or BG personnel in the execution of their duty, such as by physically blocking their access to a crime scene or interfering with an arrest.
 
 |   | **Prison time**  |
 |---|---|
