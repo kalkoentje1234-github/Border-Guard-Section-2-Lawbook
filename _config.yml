@@ -18,7 +18,11 @@ title: Border Guard Section 2 Lawbook
 email: your-email@domain.com
 author: kalkoentje16
 description: > # this means to ignore newlines until "baseurl:"
-  New update.
+  BIG UPDATE:
+  ● General Provisions have been updated.
+  ● New titles and articles have been added.
+  ● Old titles and articles have been updated.
+  ● Old titles that were useless are removed.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
